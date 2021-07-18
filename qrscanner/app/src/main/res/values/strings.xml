@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Qr Code Scanner</string>
+    <string name="app_name">QR Code Scanner</string>
 
     <string name="admob_app_id">ca-app-pub-8796150055601896~6733582396</string>
     <string name="admob_banner_ad">ca-app-pub-8796150055601896/6542010703</string>
