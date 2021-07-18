@@ -13,6 +13,8 @@ android {
         versionCode 1
         versionName "1.0"
 
+        multiDexEnabled = true
+
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -43,5 +45,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     // Qr Code Implmentations
     implementation "com.journeyapps:zxing-android-embedded:3.6.0"
-
+    // Admob
+    implementation "com.google.android.gms:play-services-ads:20.2.0"
 }
