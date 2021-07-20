@@ -10,7 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_circle"
         android:supportsRtl="true"
         android:theme="@style/Theme.Qrscanner">
-        <activity android:name=".QrScanAcitivity"></activity>
+        <activity android:name=".QrScanAcitivity" />
         <activity
             android:name=".ResultActivity"
             android:parentActivityName=".MainActivity"
